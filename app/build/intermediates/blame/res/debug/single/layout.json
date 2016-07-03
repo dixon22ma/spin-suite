@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "/home/erpcya_tt/AndroidStudioProjects/spin-suite/app/build/intermediates/res/merged/debug/layout/v_process.xml",
+        "source": "/home/erpcya_tt/AndroidStudioProjects/spin-suite/app/src/main/res/layout/v_process.xml"
+    },
+    {
+        "merged": "/home/erpcya_tt/AndroidStudioProjects/spin-suite/app/build/intermediates/res/merged/debug/layout/t_role.xml",
+        "source": "/home/erpcya_tt/AndroidStudioProjects/spin-suite/app/src/main/res/layout/t_role.xml"
+    },
+    {
+        "merged": "/home/erpcya_tt/AndroidStudioProjects/spin-suite/app/build/intermediates/res/merged/debug/layout/action_item.xml",
+        "source": "/home/erpcya_tt/AndroidStudioProjects/spin-suite/app/src/main/res/layout/action_item.xml"
+    },
+    {
+        "merged": "/home/erpcya_tt/AndroidStudioProjects/spin-suite/app/build/intermediates/res/merged/debug/layout/t_login.xml",
+        "source": "/home/erpcya_tt/AndroidStudioProjects/spin-suite/app/src/main/res/layout/t_login.xml"
+    },
+    {
+        "merged": "/home/erpcya_tt/AndroidStudioProjects/spin-suite/app/build/intermediates/res/merged/debug/layout/t_connection.xml",
+        "source": "/home/erpcya_tt/AndroidStudioProjects/spin-suite/app/src/main/res/layout/t_connection.xml"
+    },
+    {
+        "merged": "/home/erpcya_tt/AndroidStudioProjects/spin-suite/app/build/intermediates/res/merged/debug/layout/t_dynamic_tab.xml",
+        "source": "/home/erpcya_tt/AndroidStudioProjects/spin-suite/app/src/main/res/layout/t_dynamic_tab.xml"
+    },
+    {
+        "merged": "/home/erpcya_tt/AndroidStudioProjects/spin-suite/app/build/intermediates/res/merged/debug/layout/i_report.xml",
+        "source": "/home/erpcya_tt/AndroidStudioProjects/spin-suite/app/src/main/res/layout/i_report.xml"
+    },
+    {
+        "merged": "/home/erpcya_tt/AndroidStudioProjects/spin-suite/app/build/intermediates/res/merged/debug/layout/t_login_init.xml",
+        "source": "/home/erpcya_tt/AndroidStudioProjects/spin-suite/app/src/main/res/layout/t_login_init.xml"
+    },
+    {
+        "merged": "/home/erpcya_tt/AndroidStudioProjects/spin-suite/app/build/intermediates/res/merged/debug/layout/i_activity_menu.xml",
+        "source": "/home/erpcya_tt/AndroidStudioProjects/spin-suite/app/src/main/res/layout/i_activity_menu.xml"
+    },
+    {
+        "merged": "/home/erpcya_tt/AndroidStudioProjects/spin-suite/app/build/intermediates/res/merged/debug/layout/i_search.xml",
+        "source": "/home/erpcya_tt/AndroidStudioProjects/spin-suite/app/src/main/res/layout/i_search.xml"
+    },
+    {
+        "merged": "/home/erpcya_tt/AndroidStudioProjects/spin-suite/app/build/intermediates/res/merged/debug/layout/v_progressbar.xml",
+        "source": "/home/erpcya_tt/AndroidStudioProjects/spin-suite/app/src/main/res/layout/v_progressbar.xml"
+    },
+    {
+        "merged": "/home/erpcya_tt/AndroidStudioProjects/spin-suite/app/build/intermediates/res/merged/debug/layout/quickaction.xml",
+        "source": "/home/erpcya_tt/AndroidStudioProjects/spin-suite/app/src/main/res/layout/quickaction.xml"
+    },
+    {
+        "merged": "/home/erpcya_tt/AndroidStudioProjects/spin-suite/app/build/intermediates/res/merged/debug/layout/article_view.xml",
+        "source": "/home/erpcya_tt/AndroidStudioProjects/spin-suite/app/src/main/res/layout/article_view.xml"
+    },
+    {
+        "merged": "/home/erpcya_tt/AndroidStudioProjects/spin-suite/app/build/intermediates/res/merged/debug/layout/t_dynamic_tab_detail.xml",
+        "source": "/home/erpcya_tt/AndroidStudioProjects/spin-suite/app/src/main/res/layout/t_dynamic_tab_detail.xml"
+    },
+    {
+        "merged": "/home/erpcya_tt/AndroidStudioProjects/spin-suite/app/build/intermediates/res/merged/debug/layout/v_lookup_search.xml",
+        "source": "/home/erpcya_tt/AndroidStudioProjects/spin-suite/app/src/main/res/layout/v_lookup_search.xml"
+    },
+    {
+        "merged": "/home/erpcya_tt/AndroidStudioProjects/spin-suite/app/build/intermediates/res/merged/debug/layout/v_menu.xml",
+        "source": "/home/erpcya_tt/AndroidStudioProjects/spin-suite/app/src/main/res/layout/v_menu.xml"
+    },
+    {
+        "merged": "/home/erpcya_tt/AndroidStudioProjects/spin-suite/app/build/intermediates/res/merged/debug/layout/i_menu.xml",
+        "source": "/home/erpcya_tt/AndroidStudioProjects/spin-suite/app/src/main/res/layout/i_menu.xml"
+    },
+    {
+        "merged": "/home/erpcya_tt/AndroidStudioProjects/spin-suite/app/build/intermediates/res/merged/debug/layout/v_search.xml",
+        "source": "/home/erpcya_tt/AndroidStudioProjects/spin-suite/app/src/main/res/layout/v_search.xml"
+    },
+    {
+        "merged": "/home/erpcya_tt/AndroidStudioProjects/spin-suite/app/build/intermediates/res/merged/debug/layout/tv_base.xml",
+        "source": "/home/erpcya_tt/AndroidStudioProjects/spin-suite/app/src/main/res/layout/tv_base.xml"
+    },
+    {
+        "merged": "/home/erpcya_tt/AndroidStudioProjects/spin-suite/app/build/intermediates/res/merged/debug/layout/v_lookup_date.xml",
+        "source": "/home/erpcya_tt/AndroidStudioProjects/spin-suite/app/src/main/res/layout/v_lookup_date.xml"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/erpcya_tt/AndroidStudioProjects/spin-suite/app/build/intermediates/res/merged/debug/menu/cancel_ok.xml",
+        "source": "/home/erpcya_tt/AndroidStudioProjects/spin-suite/app/src/main/res/menu/cancel_ok.xml"
+    },
+    {
+        "merged": "/home/erpcya_tt/AndroidStudioProjects/spin-suite/app/build/intermediates/res/merged/debug/menu/search.xml",
+        "source": "/home/erpcya_tt/AndroidStudioProjects/spin-suite/app/src/main/res/menu/search.xml"
+    },
+    {
+        "merged": "/home/erpcya_tt/AndroidStudioProjects/spin-suite/app/build/intermediates/res/merged/debug/menu/process.xml",
+        "source": "/home/erpcya_tt/AndroidStudioProjects/spin-suite/app/src/main/res/menu/process.xml"
+    },
+    {
+        "merged": "/home/erpcya_tt/AndroidStudioProjects/spin-suite/app/build/intermediates/res/merged/debug/menu/dynamic_tab.xml",
+        "source": "/home/erpcya_tt/AndroidStudioProjects/spin-suite/app/src/main/res/menu/dynamic_tab.xml"
+    }
+]

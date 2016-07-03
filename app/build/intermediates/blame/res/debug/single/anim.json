@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "/home/erpcya_tt/AndroidStudioProjects/spin-suite/app/build/intermediates/res/merged/debug/anim/shrink_from_top.xml",
+        "source": "/home/erpcya_tt/AndroidStudioProjects/spin-suite/app/src/main/res/anim/shrink_from_top.xml"
+    },
+    {
+        "merged": "/home/erpcya_tt/AndroidStudioProjects/spin-suite/app/build/intermediates/res/merged/debug/anim/grow_from_bottomleft_to_topright.xml",
+        "source": "/home/erpcya_tt/AndroidStudioProjects/spin-suite/app/src/main/res/anim/grow_from_bottomleft_to_topright.xml"
+    },
+    {
+        "merged": "/home/erpcya_tt/AndroidStudioProjects/spin-suite/app/build/intermediates/res/merged/debug/anim/shrink_from_topleft_to_bottomright.xml",
+        "source": "/home/erpcya_tt/AndroidStudioProjects/spin-suite/app/src/main/res/anim/shrink_from_topleft_to_bottomright.xml"
+    },
+    {
+        "merged": "/home/erpcya_tt/AndroidStudioProjects/spin-suite/app/build/intermediates/res/merged/debug/anim/shrink_from_bottomleft_to_topright.xml",
+        "source": "/home/erpcya_tt/AndroidStudioProjects/spin-suite/app/src/main/res/anim/shrink_from_bottomleft_to_topright.xml"
+    },
+    {
+        "merged": "/home/erpcya_tt/AndroidStudioProjects/spin-suite/app/build/intermediates/res/merged/debug/anim/grow_from_bottom.xml",
+        "source": "/home/erpcya_tt/AndroidStudioProjects/spin-suite/app/src/main/res/anim/grow_from_bottom.xml"
+    },
+    {
+        "merged": "/home/erpcya_tt/AndroidStudioProjects/spin-suite/app/build/intermediates/res/merged/debug/anim/grow_from_bottomright_to_topleft.xml",
+        "source": "/home/erpcya_tt/AndroidStudioProjects/spin-suite/app/src/main/res/anim/grow_from_bottomright_to_topleft.xml"
+    },
+    {
+        "merged": "/home/erpcya_tt/AndroidStudioProjects/spin-suite/app/build/intermediates/res/merged/debug/anim/shrink_from_bottomright_to_topleft.xml",
+        "source": "/home/erpcya_tt/AndroidStudioProjects/spin-suite/app/src/main/res/anim/shrink_from_bottomright_to_topleft.xml"
+    },
+    {
+        "merged": "/home/erpcya_tt/AndroidStudioProjects/spin-suite/app/build/intermediates/res/merged/debug/anim/shrink_from_bottom.xml",
+        "source": "/home/erpcya_tt/AndroidStudioProjects/spin-suite/app/src/main/res/anim/shrink_from_bottom.xml"
+    },
+    {
+        "merged": "/home/erpcya_tt/AndroidStudioProjects/spin-suite/app/build/intermediates/res/merged/debug/anim/rail.xml",
+        "source": "/home/erpcya_tt/AndroidStudioProjects/spin-suite/app/src/main/res/anim/rail.xml"
+    },
+    {
+        "merged": "/home/erpcya_tt/AndroidStudioProjects/spin-suite/app/build/intermediates/res/merged/debug/anim/shrink_from_topright_to_bottomleft.xml",
+        "source": "/home/erpcya_tt/AndroidStudioProjects/spin-suite/app/src/main/res/anim/shrink_from_topright_to_bottomleft.xml"
+    },
+    {
+        "merged": "/home/erpcya_tt/AndroidStudioProjects/spin-suite/app/build/intermediates/res/merged/debug/anim/grow_from_topright_to_bottomleft.xml",
+        "source": "/home/erpcya_tt/AndroidStudioProjects/spin-suite/app/src/main/res/anim/grow_from_topright_to_bottomleft.xml"
+    },
+    {
+        "merged": "/home/erpcya_tt/AndroidStudioProjects/spin-suite/app/build/intermediates/res/merged/debug/anim/grow_from_top.xml",
+        "source": "/home/erpcya_tt/AndroidStudioProjects/spin-suite/app/src/main/res/anim/grow_from_top.xml"
+    },
+    {
+        "merged": "/home/erpcya_tt/AndroidStudioProjects/spin-suite/app/build/intermediates/res/merged/debug/anim/grow_from_topleft_to_bottomright.xml",
+        "source": "/home/erpcya_tt/AndroidStudioProjects/spin-suite/app/src/main/res/anim/grow_from_topleft_to_bottomright.xml"
+    }
+]
